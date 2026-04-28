@@ -1,8 +1,14 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-  //ここにコードを書く
+  double a;
+  int b;
+
+  scanf("%lf",&a);
+  scanf("%d",&b);
+
+  printf("%.bf")
 
   
   return 0;
